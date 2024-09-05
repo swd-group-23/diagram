@@ -1,0 +1,1 @@
+This folder will store any mockups or wireframes for our frontend
